@@ -1,0 +1,14 @@
+{
+	"name": "phi-documentation",
+	"description": "Phi documentation",
+	"autoload": {
+		"psr-4": {
+			"Phi\\Traits\\": "source"
+		},
+		"files": [
+
+		]
+	}
+}
+
+
